@@ -134,7 +134,7 @@
         h2 3.1 Medios de comunicación
 
       p.mb-2(data-aos="fade-right") Estos son instrumentos utilizados por la empresa o la organización para dar a conocer sus mensajes, información y su información publicitaria, entre otros. La empresa utiliza estos medios de manera masiva utilizando medios #[i off-line] u #[i on-line].
-      p.mb-5(data-aos="fade-right") Existen divisiones de medios de comunicación generadas por la gestión del mercadeo. Es la comunicación que llega a un gran número de personas en un periodo de tiempo determinado; y los medios son
+      p.mb-5(data-aos="fade-right") Existen divisiones de medios de comunicación generadas por la gestión del mercadeo. Es la comunicación que llega a un gran número de personas en un periodo de tiempo determinado; y los medios son:
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6
