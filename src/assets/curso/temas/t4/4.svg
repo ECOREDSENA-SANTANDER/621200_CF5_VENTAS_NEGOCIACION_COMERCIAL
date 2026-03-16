@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="107.516" height="98" viewBox="0 0 107.516 98">
-  <g id="Grupo_1103835" data-name="Grupo 1103835" transform="translate(-756 -877)">
+  <g id="Grupo_1206283" data-name="Grupo 1206283" transform="translate(-756 -877)">
     <path id="Rectángulo_401003" data-name="Rectángulo 401003" d="M59,0H89a0,0,0,0,1,0,0V91a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V59A59,59,0,0,1,59,0Z" transform="translate(756 877)" fill="#fff"/>
     <g id="pista-2" transform="translate(783.436 894.921)">
       <g id="Layer_2">
@@ -13,7 +13,7 @@
             </g>
           </g>
           <g id="Grupo_1101953" data-name="Grupo 1101953" transform="translate(5.553 5.553)">
-            <circle id="Elipse_11828" data-name="Elipse 11828" cx="34.487" cy="34.487" r="34.487" fill="#fc0"/>
+            <circle id="Elipse_11828" data-name="Elipse 11828" cx="34.487" cy="34.487" r="34.487" fill="#a6cdec"/>
           </g>
         </g>
       </g>

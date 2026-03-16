@@ -20,19 +20,19 @@
       .row.justify-content-center.justify-content-center.mb-4(data-aos="fade-right")
         .col-sm-12.col-md-6.col-lg-4
           .overflow-hidden.h-100.p-2
-            .row.align-items-center.justify-content-center.bg-fondo-3.p-1
+            .row.align-items-center.justify-content-center.bg-color-8.br-2.p-1
               .col-4.col-md-2.col-lg-4
                 img.mt-4(src='@/assets/curso/temas/t4/3.svg', alt='')
               p.text-center.p-4.mb-5 “Conjunto de técnicas coordinadas entre fabricante y distribuidor, aplicadas en el punto de venta para motivar el acto de compra de la forma más rentable para ambos, satisfaciendo las necesidades del consumidor” (Fernández y Pastor, 2007).
         .col-sm-12.col-md-6.col-lg-4
           .overflow-hidden.h-100.p-2
-            .row.align-items-center.justify-content-center.bg-fondo-3.p-1
+            .row.align-items-center.justify-content-center.bg-color-8.br-2.p-1
               .col-4.col-md-2.col-lg-4
                 img.mt-4(src='@/assets/curso/temas/t4/4.svg', alt='')
               p.text-center.p-4.mb-4 “El #[em merchandising] es la implantación y el control necesario para la comercialización de bienes y servicios, en los lugares, en los momentos, en los precios en las cantidades susceptibles de facilitar la consecución de los objetivos de #[em marketing] de la empresa”. (Fernández y Pastor, 2007).
         .col-sm-12.col-md-6.col-lg-4
           .overflow-hidden.h-100.p-2
-            .row.align-items-center.justify-content-center.bg-fondo-3.p-1
+            .row.align-items-center.justify-content-center.bg-color-8.br-2.p-1
               .col-4.col-md-2.col-lg-4
                 img.mt-4(src='@/assets/curso/temas/t4/5.svg', alt='')
               p.text-center.p-4.mb-5 “El #[em marketing] evoluciona para estimular la intención de compra (el #[em merchandising]) para provocar el deseo de poseer o consumir el producto a través de un escenario con una atmósfera adaptada a la mente del consumidor” (Palomares, 2009).
@@ -41,14 +41,14 @@
   
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-12
-          .tarjeta.color-acento-contenido.p-3
+          .tarjeta.bg-color-10.p-3
             .row.justify-content-around.align-items-center
               .col-auto.d-none.d-lg-block
                 img(src="@/assets/curso/temas/t4/1.svg").ps-3
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h5.mb-0.text-white Como técnica del #[em marketing], siempre se buscará la rentabilidad, disponibilidad, impacto, precio y exhibición.
+                    p.mb-0 Como técnica del #[em marketing], siempre se buscará la rentabilidad, disponibilidad, impacto, precio y exhibición.
   
       p.mb-5(data-aos="fade-right") No obstante, esta técnica comercial comenzó con el surgimiento de los puntos de ventas modernos, en los que se aplicaban diversas acciones de visualización de los productos para potenciar la mercadería, así como la rápida rotación de inventarios. De esta manera, se destacan los siguientes hitos:
   
@@ -56,50 +56,49 @@
         .col-lg-5.col-sm-12.col-md-10.d-none.d-lg-block
           img(src='@/assets/curso/temas/t4/6.png', alt='')
         .col-lg-7.col-sm-12.col-md-10
-          
-          .row
-            .tarjeta.bg-fondo-4.p-4
-              LineaTiempoC.color-acento-contenido(text-small)
-                .row(titulo="1840").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1840
-                    p.mb-4 Pequeños almacenes pudieron llevar el escaparatismo como escenario, el producto se exponía sin orden.
-                .row(titulo="1852").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1852
-                    p.mb-4 Nacimiento del gran almacén en Francia. 
-                .row(titulo="1878").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1878
-                    p.mb-4 Origen de los almacenes populares en los EE.UU.
-                .row(titulo="1920").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1920
-                    p.mb-4 Con la aparición del mercadeo, el escaparatismo se basaba en estudios de mercado y del consumidor.
-                .row(titulo="1930").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1930
-                    p.mb-4 Nacimiento de los supermercados en los EE.UU.
-                .row(titulo="1950 - 1960").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1950 - 1960
-                    p.mb-4 Se fortaleció el diseño en los escaparates.
-                .row(titulo="1970").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1970
-                    p.mb-4 El escaparate se convierte en el centro de la venta.
-                .row(titulo="1980").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1980
-                    p.mb-4 Se utiliza el término #[em merchandising] en los grandes almacenes.
-                .row(titulo="1990").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 1990
-                    p.mb-4 Se comienza con el  “minimalismo”, centrado en la venta de un único producto.
-                .row(titulo="Hoy").align-items-center.justify-content-center
-                  .col-md-10.mb-4.mb-md-0
-                    h4 Hoy
-                    p.mb-4 Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
+          .bg-color-9.mb-0.p-4
+              .tarjeta.bg-color-5.p-4
+                LineaTiempoC.color-acento-contenido(text-small)
+                  .row(titulo="1840").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1840
+                      p.mb-4 Pequeños almacenes pudieron llevar el escaparatismo como escenario, el producto se exponía sin orden.
+                  .row(titulo="1852").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1852
+                      p.mb-4 Nacimiento del gran almacén en Francia. 
+                  .row(titulo="1878").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1878
+                      p.mb-4 Origen de los almacenes populares en los EE.UU.
+                  .row(titulo="1920").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1920
+                      p.mb-4 Con la aparición del mercadeo, el escaparatismo se basaba en estudios de mercado y del consumidor.
+                  .row(titulo="1930").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1930
+                      p.mb-4 Nacimiento de los supermercados en los EE.UU.
+                  .row(titulo="1950 - 1960").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1950 - 1960
+                      p.mb-4 Se fortaleció el diseño en los escaparates.
+                  .row(titulo="1970").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1970
+                      p.mb-4 El escaparate se convierte en el centro de la venta.
+                  .row(titulo="1980").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1980
+                      p.mb-4 Se utiliza el término #[em merchandising] en los grandes almacenes.
+                  .row(titulo="1990").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 1990
+                      p.mb-4 Se comienza con el  “minimalismo”, centrado en la venta de un único producto.
+                  .row(titulo="Hoy").align-items-center.justify-content-center
+                    .col-md-10.mb-4.mb-md-0
+                      h4 Hoy
+                      p.mb-4 Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
       p.mb-5(data-aos="fade-right") El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
       .cajon.color-secundario.p-4.mb-5(data-aos="fade-right")
         p.mb-0 El #[em merchandising] busca atraer, informar y persuadir al consumidor en el lugar de compra, convirtiendo la exhibición en una herramienta estratégica para fortalecer la relación entre producto, marca y cliente.
@@ -306,7 +305,7 @@
 
       .row.justify-content-center.mb-5(data-aos="fade-right")
         SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t4/11.svg' alt='AvatarTop')
@@ -324,7 +323,7 @@
                 li.mb-0 
                   i.fas.fa-check-circle
                   span.mb-2 Análisis de la competencia.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t4/12.svg' alt='AvatarTop')
@@ -342,7 +341,7 @@
                 li.mb-0 
                   i.fas.fa-check-circle
                   span.mb-2 Beneficio.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t4/13.svg' alt='AvatarTop')
@@ -360,7 +359,7 @@
                 li.mb-0 
                   i.fas.fa-check-circle
                   span.mb-2 Gestión del surtido.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t4/14.svg' alt='AvatarTop')

@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="107.515" height="98" viewBox="0 0 107.515 98">
-  <g id="Grupo_1103836" data-name="Grupo 1103836" transform="translate(-1176 -877)">
+  <g id="Grupo_1206284" data-name="Grupo 1206284" transform="translate(-1176 -877)">
     <path id="Rectángulo_400999" data-name="Rectángulo 400999" d="M59,0H89a0,0,0,0,1,0,0V91a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V59A59,59,0,0,1,59,0Z" transform="translate(1176 877)" fill="#fff"/>
     <g id="pista-3" transform="translate(1203.436 894.921)">
       <g id="Layer_2">
         <g id="Grupo_1101962" data-name="Grupo 1101962">
           <g id="Grupo_1101960" data-name="Grupo 1101960">
             <g id="Grupo_1101958" data-name="Grupo 1101958" transform="translate(1.251 1.251)">
-              <circle id="Elipse_11829" data-name="Elipse 11829" cx="39" cy="39" r="39" transform="translate(0.073 -0.172)" fill="#fff"/>
+              <circle id="Elipse_11829" data-name="Elipse 11829" cx="39" cy="39" r="39" transform="translate(0.073 -0.172)" fill="#a6cdec"/>
             </g>
             <g id="Grupo_1101959" data-name="Grupo 1101959">
-              <path id="Trazado_877341" data-name="Trazado 877341" d="M40.04,2.5A37.537,37.537,0,1,1,2.5,40.04,37.58,37.58,0,0,1,40.04,2.5m0-2.5a40.04,40.04,0,1,0,40.04,40.04A40.04,40.04,0,0,0,40.04,0Z"/>
+              <path id="Trazado_877341" data-name="Trazado 877341" d="M40.04,2.5A37.537,37.537,0,1,1,2.5,40.04,37.58,37.58,0,0,1,40.04,2.5m0-2.5a40.04,40.04,0,1,0,40.04,40.04A40.04,40.04,0,0,0,40.04,0Z" fill="#a6cdec"/>
             </g>
           </g>
           <g id="Grupo_1101961" data-name="Grupo 1101961" transform="translate(5.553 5.553)">
-            <circle id="Elipse_11830" data-name="Elipse 11830" cx="34.487" cy="34.487" r="34.487" fill="#fc0"/>
+            <circle id="Elipse_11830" data-name="Elipse 11830" cx="34.487" cy="34.487" r="34.487" fill="#a6cdec"/>
           </g>
         </g>
       </g>
