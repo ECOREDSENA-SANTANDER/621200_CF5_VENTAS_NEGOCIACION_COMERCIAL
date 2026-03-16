@@ -19,7 +19,7 @@
 
       p.mb-5(data-aos="fade-right") Realizar una presentación requiere una inversión de tiempo tanto en su preparación como en su exposición o socialización. Esta puede incluir diapositivas digitales, videos u otros recursos que respalden el argumento del vendedor. Según la naturaleza de la presentación, pueden involucrarse varias personas del equipo de ventas, y el cliente puede estar representado por un equipo directivo u otros interesados en la adquisición del producto.
   
-      .cajon.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
+      .cajon.color-secundario.p-4.mb-5(data-aos="fade-right")
           p.mb-0 El proceso de elaboración de una presentación puede generar un alto nivel de estrés, incluso para el vendedor más experimentado. Por ello, es fundamental seguir una serie de pasos concretos, planificados y bajo un control estricto.
       
       .container.tarjeta.bg-color-6.mb-5(data-aos="fade-right")
@@ -120,7 +120,7 @@
             iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/kVSt0II8ABE?si=AtWmo4ODjU_iSPnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
           figcaption Algunos #[em tips] importantes para un buen desarrollo de una presentación.
       Separador  
-      #t_6_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      #t_6_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 6.1  Lenguaje corporal
       p.m-cus-2(data-aos="fade-right") El lenguaje corporal es un recurso esencial en cualquier presentación, ya sea presencial o virtual. A través de los gestos, la postura, la mirada y la sonrisa, se transmite confianza, seguridad y cercanía con el público. Una adecuada expresión corporal permite captar la atención, reforzar el mensaje y proyectar credibilidad, favoreciendo así una comunicación más efectiva y convincente.
 

@@ -8,7 +8,7 @@
         h1 Concepto de comunicación
 
       
-      .cajon.color-acento-contenido.mb-5(data-aos="fade-right")
+      .cajon.color-secundario.mb-5(data-aos="fade-right")
         .row.align-items-center.justify-content-center
           .col-sm-12.col-md-12.col-lg-3.py-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t3/1.svg', alt='')
@@ -130,7 +130,7 @@
       
       
       Separador  
-      #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      #t_3_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 3.1 Medios de comunicación
 
       p.mb-2(data-aos="fade-right") Estos son instrumentos utilizados por la empresa o la organización para dar a conocer sus mensajes, información y su información publicitaria, entre otros. La empresa utiliza estos medios de manera masiva utilizando medios #[i off-line] u #[i on-line].
@@ -138,7 +138,7 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6
-          .cajon.color-acento-contenido.p-5.mb-0
+          .cajon.color-secundario.p-5.mb-0
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-6
                 ul.lista-ul--color.fa-al

@@ -12,7 +12,7 @@
           img(src='@/assets/curso/temas/t4/2.png', alt='')
         .col-lg-8.col-sm-12.col-md-12
           p.mb-4 El #[em merchandising] es considerado, según Pérez, Pérez y Cristo (2018), como una técnica que incentiva la compra mediante la interacción del cliente con el producto. Las técnicas de comercialización han adquirido gran importancia en los puntos de venta para lograr la satisfacción con el cliente mediante incentivos de venta, lo que puede llamarse #[em merchandising] de seducción y el #[em merchandising] de gestión o de visualización.
-          .cajon.color-acento-contenido.p-5.mb-4
+          .cajon.color-secundario.p-5.mb-4
             p El término #[em merchandising] se puede dividir en dos partes, #[em «merchandise»], que significa mercancía o mercadería, y la terminación #[em «-ing»], que significa acción. En este sentido, puede decirse que es el mercado en acción o producto en acción; dicho en otras palabras, el #[em merchandising] es el movimiento de la mercancía hacia el consumidor en el punto de venta.
   
       p.mb-4(data-aos="fade-right") Otros autores definen el #[em merchandising] de la siguiente forma:
@@ -101,7 +101,7 @@
                     h4 Hoy
                     p.mb-4 Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
       p.mb-5(data-aos="fade-right") El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
-      .cajon.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
+      .cajon.color-secundario.p-4.mb-5(data-aos="fade-right")
         p.mb-0 El #[em merchandising] busca atraer, informar y persuadir al consumidor en el lugar de compra, convirtiendo la exhibición en una herramienta estratégica para fortalecer la relación entre producto, marca y cliente.
 
       p.mb-5(data-aos="fade-right") Los objetivos del #[em merchandising] se orientan a impulsar la comercialización de productos en el punto de venta, optimizando la experiencia del cliente y generando mayor rentabilidad para la empresa. Entre los principales se destacan: 

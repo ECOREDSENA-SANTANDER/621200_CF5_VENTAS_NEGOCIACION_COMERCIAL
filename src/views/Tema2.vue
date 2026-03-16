@@ -12,10 +12,10 @@
           p Cuando el proceso de la venta finaliza con el consentimiento de las partes de la aceptación del bien o servicio, se inicia un proceso de formalización de ese acuerdo, y las transacciones comerciales, dan respuesta a esos acuerdos y transferencia de la propiedad. 
           p Las transacciones comerciales abarcan todas las actividades económicas que se realizan entre empresas mediante una serie de movimientos comerciales en el mercado, donde compradores y vendedores intercambian bienes y servicios para satisfacer sus necesidades.
           p Pero ¿qué son las transacciones comerciales? 
-          .cajon.color-acento-contenido.p-4.mb-2
+          .cajon.color-secundario.p-4.mb-2
             .h5.ps-3 Coll (2020)
             p.ps-3 Una transacción comercial es una operación mercantil en la que un vendedor y un comprador acuerdan la transferencia de la propiedad sobre algo, a cambio de un precio previamente acordado.
-          .cajon.color-acento-contenido.p-4.mb-2
+          .cajon.color-secundario.p-4.mb-2
             .h5.ps-3 Sy (2019)
             p.ps-3 Son actividades o eventos económicos que implican interacciones entre dos o más partes, en las que se intercambian productos, servicios o valores por algún tipo de retribución, con frecuencia en la forma de dinero.
         .col-10.col-md-10.col-lg-5.d-none.d-lg-block
@@ -148,13 +148,13 @@
       
       
       Separador
-      #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      #t_2_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 2.1 Documentos comerciales
       
       p.mb-5(data-aos='fade-right') Son respaldos físicos o digitales de las transacciones mercantiles, exigidos por la ley y que deben conservarse por 10 años. Su importancia radica en que:  
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5
-          .cajon.color-acento-contenido.p-5.mb-0
+          .cajon.color-secundario.p-5.mb-0
             .p-3
                 h5 De contado:
                 ul.lista-ul--color.fa-al
