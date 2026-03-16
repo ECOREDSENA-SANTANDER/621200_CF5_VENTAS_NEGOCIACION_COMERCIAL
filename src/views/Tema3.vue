@@ -25,28 +25,28 @@
               img(src='@/assets/curso/temas/t3/2.png')
 
 
-          .tarjeta.color-secundario.p-3(x="15%" y="54%" numero="1")
+          .tarjeta.bg-color-3.p-3(x="14.5%" y="53%" numero="1")
             p.mb-0 #[b 1. Emisor]
             p.mb-0.titulo-cus-4 Quien origina el mensaje (por ejemplo, el asesor comercial).
-          .tarjeta.color-secundario.p-3(x="25%" y="54%" numero="2")
+          .tarjeta.bg-color-3.p-3(x="24.3%" y="53%" numero="2")
             p.mb-0 #[b 2. Receptor]
             p.mb-0.titulo-cus-4 Quien recibe e interpreta el mensaje (el cliente, el compañero de trabajo, el jefe).
-          .tarjeta.color-secundario.p-3(x="35%" y="54%" numero="3")
+          .tarjeta.bg-color-3.p-3(x="34.7%" y="53%" numero="3")
             p.mb-0 #[b 3. Mensaje]
             p.mb-0.titulo-cus-4 La información que se quiere transmitir (una propuesta de ventas, una explicación de producto, una recomendación).
-          .tarjeta.color-secundario.p-3(x="45%" y="54%" numero="4")
+          .tarjeta.bg-color-3.p-3(x="45%" y="53%" numero="4")
             p.mb-0 #[b 4. Canal]
             p.mb-0.titulo-cus-4 Medio a través del cual circula el mensaje (correo electrónico, llamada, reunión presencial, chat).
-          .tarjeta.color-secundario.p-3(x="55%" y="54%" numero="5")
+          .tarjeta.bg-color-3.p-3(x="55%" y="53%" numero="5")
             p.mb-0 #[b 5. Código]
             p.mb-0.titulo-cus-4 Sistema de signos utilizados para expresarse (lenguaje verbal, gestos, imágenes, símbolos).
-          .tarjeta.color-secundario.p-3(x="65%" y="54%" numero="6")
+          .tarjeta.bg-color-3.p-3(x="65.5%" y="53%" numero="6")
             p.mb-0 #[b 6. Contexto]
             p.mb-0.titulo-cus-4 Situación en la que ocurre la comunicación (reunión de ventas, capacitación, negociación).
-          .tarjeta.color-secundario.p-3(x="75%" y="54%" numero="7")
+          .tarjeta.bg-color-3.p-3(x="75.8%" y="53%" numero="7")
             p.mb-0 #[b 7. Retroalimentación]
             p.mb-0.titulo-cus-4 Respuesta que da el receptor, indicando si comprendió o no el mensaje.
-          .tarjeta.color-secundario.p-3(x="85%" y="54%" numero="8")
+          .tarjeta.bg-color-3.p-3(x="85.5%" y="53%" numero="8")
             p.mb-0 #[b 8. Ruido]
             p.mb-0.titulo-cus-4 Cualquier interferencia que distorsiona la comunicación (falta de atención, distracciones, problemas técnicos).
 
@@ -100,22 +100,22 @@
         .col-sm-12.col-lg-7
           ul.lista-ul--color.lista-ul--separador
             li.d-flex
-              i.fas.fa-check-circle.icon-list
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Informativa:] transmitir datos sobre productos, servicios o procesos (ej. especificaciones técnicas).
             li.d-flex
-              i.fas.fa-check-circle.icon-list
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Persuasiva:] influir en el cliente para motivar la compra o la fidelización.
             li.d-flex
-              i.fas.fa-check-circle.icon-list
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Relacional:] construir y fortalecer vínculos de confianza con clientes y colegas.
             li.d-flex
-              i.fas.fa-check-circle.icon-list
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Reguladora:] establecer normas, acuerdos y procedimientos de trabajo o negociación.
             li.d-flex
-              i.fas.fa-check-circle.icon-list
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Formativa:] capacitar, instruir o educar a clientes y compañeros sobre el uso de un producto o servicio.
             li.d-flex
-              i.fas.fa-check-circle.icon-list
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b De retroalimentación:] recibir opiniones, sugerencias o reclamos para mejorar el servicio.
 
 
@@ -186,16 +186,16 @@
       p.mb-3(data-aos="fade-right") Estos medios se clasifican en:
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-md-6.col-lg-3
-          .bg-color-6.p-4.br-1.mb-cus
+          .bg-color-9.p-4.br-1.mb-cus
             h3.text-white.mb-0.text-center Medios audiovisuales
         .col-sm-12.col-md-6.col-lg-3
-          .bg-color-6.p-4.br-1.mb-cus
+          .bg-color-9.p-4.br-1.mb-cus
             h3.text-white.mb-0.text-center Medios radiofónicos
         .col-sm-12.col-md-6.col-lg-3
-          .bg-color-6.p-4.br-1.mb-cus
+          .bg-color-9.p-4.br-1.mb-cus
             h3.text-white.mb-0.text-center Medios impresos
         .col-sm-12.col-md-6.col-lg-3
-          .bg-color-6.p-4.br-1
+          .bg-color-9.p-4.br-1
             h3.text-white.mb-0.text-center Medios alternativos
 
   </template>
