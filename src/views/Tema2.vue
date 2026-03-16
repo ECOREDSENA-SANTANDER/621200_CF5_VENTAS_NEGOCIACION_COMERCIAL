@@ -15,7 +15,7 @@
           .cajon.color-secundario.p-4.mb-2
             .h5.ps-3 Coll (2020)
             p.ps-3 Una transacción comercial es una operación mercantil en la que un vendedor y un comprador acuerdan la transferencia de la propiedad sobre algo, a cambio de un precio previamente acordado.
-          .cajon.color-secundario.p-4.mb-2
+          .cajon.color-acento-contenido.p-4.mb-2
             .h5.ps-3 Sy (2019)
             p.ps-3 Son actividades o eventos económicos que implican interacciones entre dos o más partes, en las que se intercambian productos, servicios o valores por algún tipo de retribución, con frecuencia en la forma de dinero.
         .col-10.col-md-10.col-lg-5.d-none.d-lg-block
@@ -28,28 +28,32 @@
             img(src='@/assets/curso/temas/t2/2.svg' alt='').img120
             .tarjeta.nueva
               .p-3.mt-5
-                h4.mb-4.text-center El comprador
+                .bg-color-8.p-2.mb-3
+                  h4.mb-0.text-center El comprador
                 p.mb-0.text-center La persona que necesita el bien o servicio. 
         .col-md-6.col-lg-3.col-sm-12.mb-cus
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/3.svg' alt='').img120
             .tarjeta.nueva
               .p-3.mt-5
-                h4.mb-4.text-center El vendedor
+                .bg-color-8.p-2.mb-3
+                  h4.mb-0.text-center  El vendedor
                 p.mb-0.text-center Es la persona o entidad que ofrece el bien o servicio. Este puede ser un sujeto de producción o distribución o ser un sujeto de consumo.
         .col-md-6.col-lg-3.col-sm-12.mb-cus
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/4.svg' alt='').img120
             .tarjeta.nueva
               .p-3.mt-5
-                h4.mb-4.text-center El componente monetario
+                .bg-color-8.p-2.mb-3
+                  h4.mb-0.text-center  El componente monetario
                 p.mb-0.text-center Este pago se puede realizar de contado o en efectivo.
         .col-md-6.col-lg-3.col-sm-12
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/5.svg' alt='').img120
             .tarjeta.nueva
               .p-3.mt-5
-                h4.mb-4.text-center.mx-5 El bien o servicio
+                .bg-color-8.p-2.mb-3
+                  h4.mb-0.text-center El bien o servicio
                 p.mb-0.text-center  Es el objeto de la transacción entre el comprador y el vendedor.
 
       
@@ -177,22 +181,22 @@
         .col-sm-12.col-lg-9
           ul.lista-ul--color.lista-ul--separador
             li.d-flex
-              i.fas.fa-check-circle.icon-list
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Negociables:] pagaré, cheque, letra de cambio, libranza, factura cambiaria. Se pueden convertir en dinero o usarse en transacciones.
             li.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b No negociables:] cotización, pedido, remisión, factura, recibo de caja, comprobante de pago, consignaciones, notas débito y crédito. Respaldan la transacción, pero no permiten negociaciones.
             li.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Privados:] elaborados entre particulares para efectos comerciales.
             li.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Públicos:] emitidos por notarios o funcionarios judiciales.
             li.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b Informativos:] brindan datos sobre la mercancía (valor, condiciones de pago, etc.).
             li.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle.icon-color-2
               p.mb-0 #[b De soporte:] prueban una acción realizada y respaldan obligaciones monetarias.
 
         .col-sm-12.col-lg-3.d-none.d-lg-block
