@@ -22,7 +22,7 @@
       .cajon.color-secundario.p-4.mb-5(data-aos="fade-right")
           p.mb-0 El proceso de elaboración de una presentación puede generar un alto nivel de estrés, incluso para el vendedor más experimentado. Por ello, es fundamental seguir una serie de pasos concretos, planificados y bajo un control estricto.
       
-      .container.tarjeta.bg-color-6.mb-5(data-aos="fade-right")
+      .container.tarjeta.bg-color-9.mb-5(data-aos="fade-right")
         .row.align-items-center
           .col-lg-4.col-md-5.col-8.align-items-center.d-none.d-lg-block
             img.p-3(src="@/assets/curso/temas/t6/2.svg")
@@ -46,7 +46,7 @@
         .col-lg-4.col-md-8.d-none.d-lg-block
           img(src='@/assets/curso/temas/t6/3.png', alt='')
         .col-lg-6.col-md-12.col-sm-12
-          .tarjeta.bg-color-7
+          .tarjeta.bg-fondo-1
             SlyderA(tipo="b").p-4
               .row.justify-content-center.align-items-center
                 .col-lg-3.col-md-3.col-6
@@ -171,7 +171,7 @@
               .col
                 p Si la presentación es presencial, se sugiere ofrecer un apretón de manos firme y decidido, pues genera una buena primera impresión.
 
-      .container.tarjeta.bg-color-6.mb-5(data-aos="fade-right")
+      .container.tarjeta.bg-color-9.mb-5(data-aos="fade-right")
         .row.align-items-center
           .col-lg-4.col-md-5.col-8.align-items-center.d-none.d-lg-block
             img.p-3(src="@/assets/curso/temas/t6/2.svg")
@@ -188,70 +188,70 @@
 
       p.mb-5(data-aos="fade-right") Finalmente, existen diferentes herramientas y plataformas digitales para el diseño de presentaciones y que se pueden usar como apoyo al momento de presentar el producto ante el cliente. Algunas de las herramientas son:
       SlyderF(columnas="col-lg-6 col-xl-4 col-md-6")(data-aos="fade-right")
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/21.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Knovio
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/22.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 PowToon
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/23.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Prezi
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/24.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Emaze
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/25.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Hakiu Deck
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/26.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Slidebean
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/27.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Canva
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/28.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Google Slides
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/29.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Visme
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
                 img(src='@/assets/curso/temas/t6/30.png' alt='AvatarTop')
