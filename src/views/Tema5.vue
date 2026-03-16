@@ -52,8 +52,8 @@
  
       .row.mb-4(data-aos="fade-right")
         SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
-          .tarjeta.bg-color-7.p-4
-            .row.justify-content-center.p-4.d-none.d-lg-block
+          .tarjeta.bg-color-8.p-4
+            .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/6.svg')
             .row.justify-content-center
@@ -61,8 +61,8 @@
                 h5.bg-color-5.text-center.p-1 Vitrinas de prestigio
             .row.justify-content-center
               p.text-center Son aquellas donde la belleza de sus artículos expuestos supone un impacto visual que, ante todo, vende el prestigio del establecimiento. 
-          .tarjeta.bg-color-7.p-4
-            .row.justify-content-center.p-4.d-none.d-lg-block
+          .tarjeta.bg-color-8.p-4
+            .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/7.svg')
             .row.justify-content-center
@@ -70,8 +70,8 @@
                 h5.bg-color-5.text-center.p-1 Vitrinas de temporada
             .row.justify-content-center
               p.text-center Se exponen al comienzo de una temporada, informando de nuevos productos y tendencias del mercado. 
-          .tarjeta.bg-color-7.p-4
-            .row.justify-content-center.p-4.d-none.d-lg-block
+          .tarjeta.bg-color-8.p-4
+            .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/8.svg')
             .row.justify-content-center
@@ -79,8 +79,8 @@
                 h5.bg-color-5.text-center.p-1 Vitrinas promocionales
             .row.justify-content-center
               p.text-center Exponen productos promocionados o de oferta, identificando una clara oportunidad de compra.
-          .tarjeta.bg-color-7.p-4
-            .row.justify-content-center.p-4.d-none.d-lg-block
+          .tarjeta.bg-color-8.p-4
+            .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/9.svg')
             .row.justify-content-center
@@ -88,8 +88,8 @@
                 h5.bg-color-5.text-center.p-1 Vitrinas comerciales
             .row.justify-content-center
               p.text-center Presentan los productos que conforman el surtido del establecimiento con un claro directo mensaje de venta.
-          .tarjeta.bg-color-7.p-4
-            .row.justify-content-center.p-4.d-none.d-lg-block
+          .tarjeta.bg-color-8.p-4
+            .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/10.svg')
             .row.justify-content-center
@@ -97,8 +97,8 @@
                 h5.bg-color-5.text-center.p-1 Vitrinas de precios
             .row.justify-content-center
               p.text-center Son aquellas que, ante todo, destacan el precio del producto, siendo este el principal motivo de compra.
-          .tarjeta.bg-color-7.p-4
-            .row.justify-content-center.p-4.d-none.d-lg-block
+          .tarjeta.bg-color-8.p-4
+            .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/11.svg')
             .row.justify-content-center
@@ -106,8 +106,8 @@
                 h5.bg-color-5.text-center.p-1 Vitrinas informativas
             .row.justify-content-center
               p.text-center Su misión consiste en dar a conocer nuevos o desconocidos productos o servicios que supongan un cambio o un avance en la concepción de los mismos.
-          .tarjeta.bg-color-7.p-4
-            .row.justify-content-center.p-4.d-none.d-lg-block
+          .tarjeta.bg-color-8.p-4
+            .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/12.svg')
             .row.justify-content-center
@@ -191,43 +191,43 @@
       p.mb-5(data-aos="fade-right") La demostración de un producto es una estrategia clave para generar confianza y persuadir al cliente. Este proceso incluye una planificación anticipada, la presentación clara de ventajas y características, la interacción directa del cliente con el producto y el uso de recursos audiovisuales que lo cautiven. A lo largo de la demostración se busca comprometer progresivamente al cliente, hasta llegar al cierre de la venta con opciones claras y efectivas.
  
       SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4(data-aos="fade-right")
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/23.svg' alt='AvatarTop')
             .row.justify-content-center
               p.text-center Planifique su demostración con anticipación.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/24.svg' alt='AvatarTop')
             .row.justify-content-center
               p.text-center Muestre principalmente las ventajas que tiene el producto.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/25.svg' alt='AvatarTop')
             .row.justify-content-center
               p.text-center Comience primero por las características obvias.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/26.svg' alt='AvatarTop')
             .row.justify-content-center
               p.text-center Deje que el cliente tenga una experiencia directa con el producto.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/27.svg' alt='AvatarTop')
             .row.justify-content-center
               p.text-center Aproveche la demostración para ir comprometiendo al cliente progresivamente.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/28.svg' alt='AvatarTop')
             .row.justify-content-center
               p.text-center Utilice material audiovisual como videos, imágenes, animaciones, entre otros, para que cautive al cliente.
-          .tarjeta.bg-color-7.p-4
+          .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
                 img(src='@/assets/curso/temas/t5/29.svg' alt='AvatarTop')
