@@ -243,7 +243,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Fernández, R, M., y Pastor, J. (2007). Diccionario Below the Line. CEU.',
+        'Fernández, R. M., y Pastor, J. (2007). Diccionario Below the Line. CEU.',
     },
     {
       referencia:
@@ -254,7 +254,7 @@ export default {
     },
     {
       referencia:
-        'Palomares, R. B. (2009). Merchandising, teoría, práctica estrategia. Gestión 2000.',
+        'Palomares Borja, R. (2009). Merchandising: teoría, práctica y estrategia. Gestión 2000.',
     },
     {
       referencia:
@@ -262,8 +262,8 @@ export default {
     },
     {
       referencia:
-        'Pipe Drive. (s. f.). Presentaciones de ventas exitosas: plantillas, ejemplos e ideas.',
-      link: 'https://www.pipedrive.com/es/blog/presentacion-ventas',
+        'Pipedrive. (s. f.). Presentaciones de ventas exitosas: plantillas, ejemplos e ideas.',
+      link: '',
     },
     {
       referencia:
@@ -272,11 +272,11 @@ export default {
     {
       referencia:
         'Robles, M. L. (2009). La publicidad en el punto de venta: su realidad y tendencias. Revista de Comunicación de la SEECI, (18)79-128.',
-      link: 'https://www.redalyc.org/pdf/5235/523552804003.pdf',
+      link: '',
     },
     {
       referencia: 'Seggiaro, M. (2017). Zonas y circulación. [Infografía].',
-      link: 'https://www.marcelaseggiaro.com/wp-content/uploads/2017/11/6.png',
+      link: '',
     },
   ],
   creditos: [
@@ -284,12 +284,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Claudia Johana Gómez',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Responsable de línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -320,7 +321,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>full-stack</i> Junior',
+          cargo: 'Desarrolladora <i>full-stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

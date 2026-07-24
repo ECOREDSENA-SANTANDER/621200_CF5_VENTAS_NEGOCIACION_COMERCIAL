@@ -14,7 +14,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/t6/1.png')})`}"
             )
             .bloque-texto-g__texto.p-5.d-flex.flex-column
-              p.mb-3 Una presentación de ventas se puede definir como un guión o argumento que el equipo de ventas de una organización utiliza para ofrecer sus productos a los clientes. Esta presentación puede llevarse a cabo en persona, por teléfono, videollamada, videoconferencia, o cualquier otro medio disponible. No obstante, algunas empresas consideran que el contacto personal es de mayor importancia.
+              p.mb-3 Una presentación de ventas se puede definir como un guión o argumento que el equipo de ventas de una organización utiliza para ofrecer sus productos a los clientes. Esta presentación puede llevarse a cabo en persona, por teléfono, videollamada, videoconferencia o cualquier otro medio disponible. No obstante, algunas empresas consideran que el contacto personal es de mayor importancia.
               p.mb-0 Una presentación en el proceso de ventas no se limita a una llamada o a un encuentro personal; forma parte de un conjunto de acciones diseñadas para cerrar la venta. Esta presentación puede incluir una conversación inicial, una reunión, una llamada o videollamada, el envío de una propuesta e incluso una demostración.
 
       p.mb-5(data-aos="fade-right") Realizar una presentación requiere una inversión de tiempo tanto en su preparación como en su exposición o socialización. Esta puede incluir diapositivas digitales, videos u otros recursos que respalden el argumento del vendedor. Según la naturaleza de la presentación, pueden involucrarse varias personas del equipo de ventas, y el cliente puede estar representado por un equipo directivo u otros interesados en la adquisición del producto.
@@ -30,7 +30,7 @@
             .row.align-items-center
               .col.mb-3.md-sm-0.align-items-center
                 h5.text-white.mb-4.mt-5 16 años iPhone: Presentación primer iPhone 2007 por Steve Jobs (Subtítulos español)
-                p.text-white Como ejemplo, se tomará la presentación que Apple realizó del iPhone 7. Apple siempre ha logrado que sus presentaciones generen altas expectativas, manteniendo una estética profesional, limpia y atractiva, que rara vez decepciona.
+                p.text-white Como ejemplo, se tomará la presentación que Apple realizó del iPhone. Apple siempre ha logrado que sus presentaciones generen altas expectativas, manteniendo una estética profesional, limpia y atractiva, que rara vez decepciona.
                 p.text-white Para entender mejor lo que es una presentación efectiva, consulte el siguiente video.
                 .row.mb-5.me-3
                   .col-sm-auto
@@ -39,7 +39,7 @@
                       i.fas.fa-video
       
       p.mb-3(data-aos="fade-right") Las presentaciones pueden ser de muchos tipos: de negocios, para producto nuevo o de relanzamiento, marca personal o de producto, profesionales o académicas, entre otras. También pueden estar dirigidas a públicos o personas de interés, por ejemplo, en la propia empresa, a un público general, accionistas o inversores.
-      p.mb-5(data-aos="fade-right") Además, las presentaciones son consideradas recursos gráficos que apoyan en la promoción o venta de un producto, y que presenta una estructura donde se va dando a conocer diferentes áreas o aspectos de un discurso profesional, académico o publicitario; de ahí la importancia de acertar en el tipo de presentación que se perfila. En este contexto, las presentaciones se pueden clasificar de la siguiente manera:
+      p.mb-5(data-aos="fade-right") Además, las presentaciones son consideradas recursos gráficos que apoyan en la promoción o venta de un producto, y que presentan una estructura donde se va dando a conocer diferentes áreas o aspectos de un discurso profesional, académico o publicitario; de ahí la importancia de acertar en el tipo de presentación que se perfila. En este contexto, las presentaciones se pueden clasificar de la siguiente manera:
       h5.text-center.mb-4(data-aos="fade-right") Clasificación de presentaciones
   
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
@@ -53,7 +53,7 @@
                   img(src='@/assets/curso/temas/t6/4.svg')
                 .col-lg-8.mb-4.mb-md-0 
                   h5 Trabajo
-                  p Suele tener un carácter más interno. El público son tus trabajadores o socios.
+                  p Suele tener un carácter más interno. El público son los trabajadores o socios.
               .row.justify-content-center.align-items-center
                 .col-lg-3.col-md-3.col-6
                   img(src='@/assets/curso/temas/t6/5.svg')
@@ -77,7 +77,7 @@
                   img(src='@/assets/curso/temas/t6/8.svg')
                 .col-lg-8.mb-4.mb-md-0 
                   h5 Producto
-                  p Presenta todo el proceso de desarrollo o de ciclo de vida del producto. La presentación de producto, puede ser la antesala a la demostración.
+                  p Presenta todo el proceso de desarrollo o de ciclo de vida del producto. La presentación de producto puede ser la antesala a la demostración.
               .row.justify-content-center.align-items-center
                 .col-lg-3.col-md-3.col-6
                   img(src='@/assets/curso/temas/t6/9.svg')
@@ -111,9 +111,9 @@
                   p Principalmente, presentan factores interesantes para los inversionistas.
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-10
-          figcaption Nota. Contenido adaptado de Pipe Drive. (s.f.)
+          figcaption Nota. Contenido adaptado de Pipedrive. (s.f.)
 
-      p.mb-5(data-aos="fade-right") Más que el contenido, lo importante en una presentación, son aquellos elementos intangibles que juegan un papel importante durante el desarrollo. El lenguaje corporal, el tono de voz, la actitud, incluso, los movimientos, pueden ser determinantes para que el cliente pueda tomar la decisión de compra y cerrar el negocio. Algunos aspectos importantes por considerar para un buen desarrollo de una presentación se presentan en el siguiente video.
+      p.mb-5(data-aos="fade-right") Más que el contenido, lo importante en una presentación son aquellos elementos intangibles que juegan un papel importante durante el desarrollo. El lenguaje corporal, el tono de voz, la actitud, incluso, los movimientos, pueden ser determinantes para que el cliente pueda tomar la decisión de compra y cerrar el negocio. Algunos aspectos importantes por considerar para un buen desarrollo de una presentación se presentan en el siguiente video.
       .row.mb-5(data-aos="fade-right")
         figure
           .video
@@ -135,13 +135,13 @@
                 figure
                   img(src="@/assets/curso/temas/t6/15.svg", alt="alt").img80
               .col
-                p Si la presentación es en línea, o a través de videoconferencia, los gestos, la sonrisa y la forma de mirar son elementos fundamentales para convencer.
+                p Si la presentación es en línea o a través de videoconferencia, los gestos, la sonrisa y la forma de mirar son elementos fundamentales para convencer.
           .crd.crd--avatarHorizontal.crd--2.py-1
             .row.align-items-center
               .col-auto
                   img(src="@/assets/curso/temas/t6/16.svg", alt="alt").img80
               .col
-                p Un buen uso del lenguaje corporal muestra confianza y seguridad el momento de realizar la presentación.
+                p Un buen uso del lenguaje corporal muestra confianza y seguridad al momento de realizar la presentación.
           .crd.crd--avatarHorizontal.crd--3.py-1
             .row.align-items-center
               .col-auto
@@ -222,7 +222,7 @@
                 img(src='@/assets/curso/temas/t6/25.png' alt='AvatarTop')
             .row.justify-content-center
               .col-9
-                h5.bg-color-5.text-center.p-1 Hakiu Deck
+                h5.bg-color-5.text-center.p-1 Haiku Deck
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
