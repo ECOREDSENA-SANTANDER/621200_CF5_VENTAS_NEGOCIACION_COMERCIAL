@@ -235,7 +235,7 @@ export default {
         'conjunto de artículos que un establecimiento ofrece a la venta. Se refiere a la variedad de artículos presentes en la sala de ventas, no a la cantidad de un producto en concreto.',
     },
     {
-      termino: 'Visual <i>merchandising</i>',
+      termino: '<i>Visual merchandising</i>',
       significado:
         'parte esencial para cualquier establecimiento ya que ayuda a incrementar las ventas, mejorando la imagen y la marca ya sea por escaparates atractivos que inciten al público a contemplarlos más tiempo y hacer que entren al establecimiento.',
     },
@@ -340,7 +340,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

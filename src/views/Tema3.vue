@@ -167,7 +167,7 @@
                     p.mb-0  Plegables.
                   li.d-flex
                     i.fas.fa-check-circle
-                    p.mb-0  Material POP (#[i Point of Purchase]).
+                    p.mb-0  Material #[i POP] (#[i Point of Purchase]).
                   li.d-flex
                     i.fas.fa-check-circle
                     p.mb-0  Vallas fijas.
