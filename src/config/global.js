@@ -136,28 +136,7 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '<i>Merchandising</i>',
-      referencia:
-        'Ortiz, G., C., y López, M., K. (2021). Estrategias de innovación en <i>merchandising</i> aplicadas a pymes del sector misceláneas en la localidad de Chapinero en Bogotá.',
-      tipo: 'Documento',
-      link: 'https://digitk.areandina.edu.co/handle/areandina/3838',
-    },
-    {
-      tema: 'Presentaciones',
-      referencia: 'Apple. (2016). Apple – september event 2016.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=NS0txu_Kzl8',
-    },
-    {
-      tema: 'Presentaciones',
-      referencia:
-        'TEDx Talks. (2016). Hablando con Julis | Daniela Galindo | TEDxUniversidadPiloto.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=0SjVNTAVdgs',
-    },
-  ],
+  complementario: [],
   glosario: [
     {
       termino: 'Cabecera de góndola',

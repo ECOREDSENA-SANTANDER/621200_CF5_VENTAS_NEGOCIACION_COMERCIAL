@@ -117,7 +117,7 @@
       .row.mb-5(data-aos="fade-right")
         figure
           .video
-            iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/kVSt0II8ABE?si=AtWmo4ODjU_iSPnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/5zqwJBe1d0o?si=-VhKt5ytoOT3HPkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
           figcaption Algunos #[em tips] importantes para un buen desarrollo de una presentación.
       Separador  
       #t_6_1.titulo-segundo.color-secundario(data-aos='fade-right')
