@@ -136,9 +136,9 @@
                     p.mb-0 #[b Temporal:] materiales que se instalan por un periodo corto, por ejemplo, durante una promoción o campaña especial.
                   li.d-flex.mb-0
                     i.fas.fa-check-circle.icon-list
-                    p.mb-0 #[b Estacional:] piezas utilizadas en fechas específicas, como Navidad, Día de la madre o regreso a clases.
+                    p.mb-0 #[b Estacional:] piezas utilizadas en fechas específicas, como Navidad, Día de la Madre o regreso a clases.
             .col-sm-12.col-lg-3.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t5/13.png', alt='')
+              img(src='@/assets/curso/temas/t5/13.png')
  
           .row.justify-content-center.mb-0.p-4
             .col-sm-12.col-lg-8
@@ -154,7 +154,7 @@
                     i.fas.fa-check-circle.icon-list
                     p.mb-0 #[b Digitales:] pantallas interactivas o #[i LED] que transmiten mensajes dinámicos.
             .col-sm-12.col-lg-3.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t5/14.png', alt='')
+              img(src='@/assets/curso/temas/t5/14.png')
 
           .row.justify-content-center.mb-0.p-4
             .col-sm-12.col-lg-8
@@ -170,12 +170,12 @@
                     i.fas.fa-check-circle.icon-list
                     p.mb-0 #[b Recordatoria:] refuerza la presencia de la marca para mantenerla en la mente del consumidor.
             .col-sm-12.col-lg-3.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t5/15.png', alt='')
+              img(src='@/assets/curso/temas/t5/15.png')
 
       p.mb-5(data-aos="fade-right") La clasificación permite comprender que la #[b publicidad en el punto de venta] no es homogénea, sino que depende de cuánto tiempo se mantendrá, de qué materiales se construye y del propósito comunicativo que persigue.
       .titulo-cus-1.mb-4(data-aos="fade-right")
         h3.mb-0 Claves para una publicidad efectiva en el punto de venta
-      p.mb-5(data-aos="fade-right") La publicidad en el punto de venta requiere de estrategias claras que permitan captar la atención del consumidor y generar confianza en la compra. Por tal razón se presentan los aspectos esenciales a tener en cuenta, desde el análisis de la competencia hasta el diseño y la comunicación del producto, con el fin de lograr un impacto positivo sin saturar el espacio comercial.
+      p.mb-5(data-aos="fade-right") La publicidad en el punto de venta requiere estrategias claras que permitan captar la atención del consumidor y generar confianza en la compra. Por tal razón se presentan los aspectos esenciales a tener en cuenta, desde el análisis de la competencia hasta el diseño y la comunicación del producto, con el fin de lograr un impacto positivo sin saturar el espacio comercial.
       .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
         .col-sm-12.col-md-12.col-lg-10
           h4 Recomendaciones para el uso del P.O.P.
@@ -194,43 +194,43 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t5/23.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t5/23.svg')
             .row.justify-content-center
               p.text-center Planifique su demostración con anticipación.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t5/24.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t5/24.svg')
             .row.justify-content-center
               p.text-center Muestre principalmente las ventajas que tiene el producto.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t5/25.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t5/25.svg')
             .row.justify-content-center
               p.text-center Comience primero por las características obvias.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t5/26.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t5/26.svg')
             .row.justify-content-center
               p.text-center Deje que el cliente tenga una experiencia directa con el producto.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t5/27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t5/27.svg')
             .row.justify-content-center
               p.text-center Aproveche la demostración para ir comprometiendo al cliente progresivamente.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t5/28.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t5/28.svg')
             .row.justify-content-center
               p.text-center Utilice material audiovisual como videos, imágenes, animaciones, entre otros, para que cautive al cliente.
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t5/29.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t5/29.svg')
             .row.justify-content-center
               p.text-center Esté listo para el cierre de la venta del producto, tenga a mano opciones para el cliente.
  
@@ -268,7 +268,7 @@ export default {
         icono: require('@/assets/curso/temas/t5/19.svg'),
         titulo: 'Beneficios del producto',
         texto:
-          'Los mensajes en la publicidad en el punto de venta, deben enviar un mensaje al consumidor con los beneficios del producto, modo de uso, fecha de vencimiento, etc, para brindar una mayor confianza en la compra.',
+          'Los mensajes en la publicidad en el punto de venta, deben enviar un mensaje al consumidor con los beneficios del producto, modo de uso, fecha de vencimiento, etc., para brindar una mayor confianza en la compra.',
       },
       {
         icono: require('@/assets/curso/temas/t5/20.svg'),

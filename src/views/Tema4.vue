@@ -9,7 +9,7 @@
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-4.col-sm-12.col-md-8.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/2.png', alt='')
+          img(src='@/assets/curso/temas/t4/2.png')
         .col-lg-8.col-sm-12.col-md-12
           p.mb-4 El #[em merchandising] es considerado, según Pérez, Pérez y Cristo (2018), como una técnica que incentiva la compra mediante la interacción del cliente con el producto. Las técnicas de comercialización han adquirido gran importancia en los puntos de venta para lograr la satisfacción con el cliente mediante incentivos de venta, lo que puede llamarse #[em merchandising] de seducción y el #[em merchandising] de gestión o de visualización.
           .cajon.color-secundario.p-5.mb-4
@@ -22,22 +22,22 @@
           .overflow-hidden.h-100.p-2
             .row.align-items-center.justify-content-center.bg-color-8.br-2.p-1
               .col-4.col-md-2.col-lg-4
-                img.mt-4(src='@/assets/curso/temas/t4/3.svg', alt='')
+                img.mt-4(src='@/assets/curso/temas/t4/3.svg')
               p.text-center.p-4.mb-5 “Conjunto de técnicas coordinadas entre fabricante y distribuidor, aplicadas en el punto de venta para motivar el acto de compra de la forma más rentable para ambos, satisfaciendo las necesidades del consumidor” (Fernández y Pastor, 2007).
         .col-sm-12.col-md-6.col-lg-4
           .overflow-hidden.h-100.p-2
             .row.align-items-center.justify-content-center.bg-color-8.br-2.p-1
               .col-4.col-md-2.col-lg-4
-                img.mt-4(src='@/assets/curso/temas/t4/4.svg', alt='')
-              p.text-center.p-4.mb-4 “El #[em merchandising] es la implantación y el control necesario para la comercialización de bienes y servicios, en los lugares, en los momentos, en los precios en las cantidades susceptibles de facilitar la consecución de los objetivos de #[em marketing] de la empresa”. (Fernández y Pastor, 2007).
+                img.mt-4(src='@/assets/curso/temas/t4/4.svg')
+              p.text-center.p-4.mb-4 “El #[em merchandising] es la implantación y el control necesario para la comercialización de bienes y servicios, en los lugares, en los momentos, en los precios y en las cantidades susceptibles de facilitar la consecución de los objetivos de #[em marketing] de la empresa”. (Fernández y Pastor, 2007).
         .col-sm-12.col-md-6.col-lg-4
           .overflow-hidden.h-100.p-2
             .row.align-items-center.justify-content-center.bg-color-8.br-2.p-1
               .col-4.col-md-2.col-lg-4
-                img.mt-4(src='@/assets/curso/temas/t4/5.svg', alt='')
+                img.mt-4(src='@/assets/curso/temas/t4/5.svg')
               p.text-center.p-4.mb-5 “El #[em marketing] evoluciona para estimular la intención de compra (el #[em merchandising]) para provocar el deseo de poseer o consumir el producto a través de un escenario con una atmósfera adaptada a la mente del consumidor” (Palomares, 2009).
   
-      p.mb-5(data-aos="fade-right") El #[em merchandising], entonces, se puede definir como una técnica del #[em marketing] aplicada y desarrollada a fabricantes y distribuidores dirigida a estimular el deseo y producir la compra. Ahora bien, desde la perspectiva de la comunicación visual, el #[em merchandising] busca influir en el público a través de los sentidos, teniendo en cuenta que las personas reciben estímulos a través de los sentidos en 80 % visuales, 10 % estímulos sonoros y el otro 10 % entre el tacto, olfato y gusto.
+      p.mb-5(data-aos="fade-right") El #[em merchandising], entonces, se puede definir como una técnica del #[em marketing] aplicada y desarrollada por fabricantes y distribuidores dirigida a estimular el deseo y producir la compra. Ahora bien, desde la perspectiva de la comunicación visual, el #[em merchandising] busca influir en el público a través de los sentidos, teniendo en cuenta que las personas reciben estímulos a través de los sentidos en 80 % visuales, 10 % estímulos sonoros y el otro 10 % entre el tacto, olfato y gusto.
   
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-12
@@ -50,11 +50,11 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0 Como técnica del #[em marketing], siempre se buscará la rentabilidad, disponibilidad, impacto, precio y exhibición.
   
-      p.mb-5(data-aos="fade-right") No obstante, esta técnica comercial comenzó con el surgimiento de los puntos de ventas modernos, en los que se aplicaban diversas acciones de visualización de los productos para potenciar la mercadería, así como la rápida rotación de inventarios. De esta manera, se destacan los siguientes hitos:
+      p.mb-5(data-aos="fade-right") No obstante, esta técnica comercial comenzó con el surgimiento de los puntos de venta modernos, en los que se aplicaban diversas acciones de visualización de los productos para potenciar la mercadería, así como la rápida rotación de inventarios. De esta manera, se destacan los siguientes hitos:
   
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-5.col-sm-12.col-md-10.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/6.png', alt='')
+          img(src='@/assets/curso/temas/t4/6.png')
         .col-lg-7.col-sm-12.col-md-10
           .bg-color-9.mb-0.p-4
               .tarjeta.bg-color-5.p-4
@@ -98,8 +98,8 @@
                   .row(titulo="Hoy").align-items-center.justify-content-center
                     .col-md-10.mb-4.mb-md-0
                       h4 Hoy
-                      p.mb-4 Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
-      p.mb-5(data-aos="fade-right") El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
+                      p.mb-4 Hoy en día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
+      p.mb-5(data-aos="fade-right") El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en la que se tienen los siguientes alcances:    
       .cajon.color-secundario.p-4.mb-5(data-aos="fade-right")
         p.mb-0 El #[em merchandising] busca atraer, informar y persuadir al consumidor en el lugar de compra, convirtiendo la exhibición en una herramienta estratégica para fortalecer la relación entre producto, marca y cliente.
 
@@ -173,17 +173,17 @@
                       i.fas.fa-check-circle.icon-list
                       p.mb-0 Reducir tiempos de búsqueda y mejorar la circulación de clientes.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/7.svg', alt='')
+          img(src='@/assets/curso/temas/t4/7.svg')
       
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-right")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/bg/2.svg', alt='')
+          img(src='@/assets/curso/temas/bg/2.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Funciones del #[i merchandising]
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-6.col-sm-12.col-md-10.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/8.png', alt='')
+          img(src='@/assets/curso/temas/t4/8.png')
         .col-lg-6.col-sm-12.col-md-12
           ol.lista-ol--cuadro.lista-ol--separador.fa-ol
             li
@@ -211,12 +211,12 @@
       p.mb-5(data-aos="fade-right") De ahí que se encuentren otras funciones que cumple el #[i merchandising] a partir de los diferentes públicos, tal y como se aprecia a continuación.
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/9.svg', alt='')
+          img(src='@/assets/curso/temas/t4/9.svg')
       .row.align-items-center.mb-5.titulo-icono
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/bg/2.svg', alt='')
+          img(src='@/assets/curso/temas/bg/2.svg')
         .col
-          h3.mb-0.titulo-icono-text.px-0.py-2 Clases y tipos de #[i Merchandising]
+          h3.mb-0.titulo-icono-text.px-0.py-2 Clases y tipos de #[i merchandising]
       p.mb-3(data-aos="fade-right") No hay clasificaciones absolutas en el mundo del #[em marketing], teniendo en cuenta que algunos autores y expertos lo clasifican de diferentes maneras. De acuerdo con el ciclo de vida del producto, existen cuatro clases de #[i merchandising]: de nacimiento, de ataque, de mantenimiento y de defensa; cada uno conlleva unas actividades relacionadas con el producto, así:
       p.mb-5(data-aos="fade-right") El #[i merchandising] como herramienta estratégica dentro del ámbito comercial, se compone de dos enfoques principales: #[i merchandising] visual y #[i merchandising] de gestión, con lo cual, se busca no solo captar la atención del cliente, sino también garantizar la rentabilidad y sostenibilidad del negocio.
 
@@ -279,11 +279,11 @@
 
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-right")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/bg/2.svg', alt='')
+          img(src='@/assets/curso/temas/bg/2.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 #[i Merchandising] visual
 
-      p.mb-5(data-aos="fade-right") El #[em merchandising] visual aprovecha la ubicación, el recorrido y la distribución del producto en el punto de venta para motivar la venta, sea irracional (impulsiva) o racional (reflexiva). Un buen diseño del espacio permite exhibir el producto estratégicamente para que siempre esté al alcance del cliente para que cumpla un propósito en la decisión de compra.
+      p.mb-5(data-aos="fade-right") El #[em merchandising] visual aprovecha la ubicación, el recorrido y la distribución del producto en el punto de venta para motivar la venta, sea irracional (impulsiva) o racional (reflexiva). Un buen diseño del espacio permite exhibir el producto estratégicamente para que siempre esté al alcance del cliente y cumpla un propósito en la decisión de compra.
       .bg-full-width.bg-fondo-5.mb-5(data-aos='fade-right')
         .p-full-width
           .row.justify-content-center.mb-0
@@ -291,24 +291,24 @@
               .titulo-sexto.color-secundario(data-aos="fade-right")
                   p.mb-0 #[b Figura 3.] #[i Merchandising] visual
               figure.mb-0(data-aos="fade-right")
-                  img.mb-3(src='@/assets/curso/temas/t4/10.svg', alt='La imagen presenta una estantería y sus diferentes zonas, en relación con el merchandising visual y su importancia en la ubicación de los productos para motivar la venta. Se identifican 3 zonas en diferentes colores, así: - Color violeta: zona caliente - ojos. Los productos que más se quieren vender. - Color amarillo: zona media - centro. Los productos nuevos. - Color azul: zona fría - suelo. Los productos de buena rotación, que el cliente tiene referenciados y no se necesitan mostrar.')
+                  img.mb-3(src='@/assets/curso/temas/t4/10.svg', alt='La imagen presenta una estantería y sus diferentes zonas, en relación con el merchandising visual y su importancia en la ubicación de los productos para motivar la venta. Se identifican 3 zonas en diferentes colores, así: - Color verde: zona caliente - ojos. Los productos que más se quieren vender.- Color amarillo: zona media - centro. Los productos nuevos. - Color azul: zona fría - suelo. Los productos de buena rotación, que el cliente tiene referenciados y no se necesitan mostrar.')
                   figcaption.mb-0 Nota. Tomado de Mundo constructor (2019)
 
       p.mb-5(data-aos="fade-right") En el #[em merchandising] visual también se tienen en cuenta factores como la decoración del establecimiento, las áreas de exposición, tamaño, iluminación, entre otros. 
       .row.align-items-center.mb-3.titulo-icono(data-aos="fade-right")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/bg/2.svg', alt='')
+          img(src='@/assets/curso/temas/bg/2.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 #[i Merchandising] de gestión
 
-      p.mb-5(data-aos="fade-right") Se denomina #[em merchandising] de gestión porque soporta las decisiones basado en cuatro áreas fundamentales: estudio del mercado, gestión del espacio, gestión del surtido y la comunicación en el punto de venta. Este tipo de #[em merchandising] implica los siguientes procesos:
+      p.mb-5(data-aos="fade-right") Se denomina #[em merchandising] de gestión porque soporta las decisiones basadas en cuatro áreas fundamentales: estudio del mercado, gestión del espacio, gestión del surtido y la comunicación en el punto de venta. Este tipo de #[em merchandising] implica los siguientes procesos:
 
       .row.justify-content-center.mb-5(data-aos="fade-right")
         SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t4/11.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t4/11.svg')
             .row.justify-content-center
               .col-9
                 h3.bg-color-5.text-center.p-1(data-aos="fade-right") Estudio de mercado
@@ -326,7 +326,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t4/12.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t4/12.svg')
             .row.justify-content-center
               .col-9
                 h3.bg-color-5.text-center.p-1(data-aos="fade-right") Gestión del espacio
@@ -344,7 +344,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t4/13.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t4/13.svg')
             .row.justify-content-center
               .col-9
                 h3.bg-color-5.text-center.p-1(data-aos="fade-right") Gestión del surtido
@@ -362,7 +362,7 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-6
-                img(src='@/assets/curso/temas/t4/14.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t4/14.svg')
             .row.justify-content-center
               .col-9
                 h3.bg-color-5.text-center.p-1(data-aos="fade-right") Comunicación

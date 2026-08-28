@@ -4,15 +4,11 @@
       <img
         v-if="aprobado"
         src="@/assets/componentes/cuestionario-resultado.svg"
-        alt=""
         class="mx-auto d-none d-lg-block"
       />
       <img
         v-else
-        src="@/assets/componentes/cuestionario-resultado.svg"
-        alt=""
-        class="mx-auto d-none d-lg-block"
-      />
+        src="@/assets/componentes/cuestionario-resultado.svg">
     </div>
     <div class="col-lg-4">
       <div class="d-flex align-items-center flex-column">

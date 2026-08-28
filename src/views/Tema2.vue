@@ -19,13 +19,13 @@
             .h5.ps-3 Sy (2019)
             p.ps-3 Son actividades o eventos económicos que implican interacciones entre dos o más partes, en las que se intercambian productos, servicios o valores por algún tipo de retribución, con frecuencia en la forma de dinero.
         .col-10.col-md-10.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/1.png', alt='')
+          img(src='@/assets/curso/temas/t2/1.png')
 
       p.mb-5(data-aos='fade-right') Los elementos que hacen parte de una transacción comercial de acuerdo con Coll (2020), son:
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-md-6.col-lg-3.col-sm-12.mb-cus
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/2.svg' alt='').img120
+            img(src='@/assets/curso/temas/t2/2.svg').img120
             .tarjeta.nueva
               .p-3.mt-5
                 .bg-color-8.p-2.mb-3
@@ -33,7 +33,7 @@
                 p.mb-0.text-center La persona que necesita el bien o servicio. 
         .col-md-6.col-lg-3.col-sm-12.mb-cus
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/3.svg' alt='').img120
+            img(src='@/assets/curso/temas/t2/3.svg').img120
             .tarjeta.nueva
               .p-3.mt-5
                 .bg-color-8.p-2.mb-3
@@ -41,7 +41,7 @@
                 p.mb-0.text-center Es la persona o entidad que ofrece el bien o servicio. Este puede ser un sujeto de producción o distribución o ser un sujeto de consumo.
         .col-md-6.col-lg-3.col-sm-12.mb-cus
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/4.svg' alt='').img120
+            img(src='@/assets/curso/temas/t2/4.svg').img120
             .tarjeta.nueva
               .p-3.mt-5
                 .bg-color-8.p-2.mb-3
@@ -49,7 +49,7 @@
                 p.mb-0.text-center Este pago se puede realizar de contado o en efectivo.
         .col-md-6.col-lg-3.col-sm-12
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/5.svg' alt='').img120
+            img(src='@/assets/curso/temas/t2/5.svg').img120
             .tarjeta.nueva
               .p-3.mt-5
                 .bg-color-8.p-2.mb-3
@@ -63,7 +63,7 @@
 
       .tabla-b.color-acento-contenido.mb-4(data-aos='fade-right')
         table(alt='La tabla sintetiza los documentos que se intercambian en el proceso de compraventa: el comprador solicita ofertas y realiza pedidos, el vendedor responde con catálogos, confirmaciones y documentos de envío, además de emitir facturas y recibos. El comprador puede generar medios de pago como letras, cheques o pagarés. Finalmente, el vendedor liquida el IVA ante la Hacienda pública.')
-          caption Nota. Tomada de Lobato et al. (2010)
+          caption Nota. Tomada de Lobato et al. (2010).
           thead
             tr
               th.text-white Operación
@@ -108,7 +108,7 @@
               td Vendedor
               td Comprador
             tr.bg-color-5
-              td(rowspan="5") El vendedor envía la mercancía
+              td(rowspan="5") El comprador paga la mercancía
               td Factura
               td Vendedor
               td Comprador
@@ -160,7 +160,7 @@
         .col-sm-12.col-lg-5
           .cajon.color-secundario.p-5.mb-0
             .p-3
-                h5 De contado:
+                h5 Su importancia radica en que:
                 ul.lista-ul--color.fa-al
                   li.d-flex
                     i.fas.fa-check-circle
@@ -173,7 +173,7 @@
                     p.mb-0 Facilitan el control de operaciones empresariales.
 
         .col-sm-12.col-lg-7.d-none.d-lg-block
-          img.mt-5(src='@/assets/curso/temas/t2/6.png', alt='')
+          img.mt-5(src='@/assets/curso/temas/t2/6.png')
       .titulo-cus-1.mb-4(data-aos="fade-right")
         h3.mb-0 Clasificación de documentos comerciales (GestioPolis, 2020)
       
@@ -200,7 +200,7 @@
               p.mb-0 #[b De soporte:] prueban una acción realizada y respaldan obligaciones monetarias.
 
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/7.png', alt='')
+          img(src='@/assets/curso/temas/t2/7.png')
   </template>
 
 <script>

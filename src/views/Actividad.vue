@@ -405,7 +405,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Se reducen los canales de comunicación.',
+              texto: 'Se reduce los canales de comunicación.',
               esCorrecta: false,
             },
           ],

@@ -11,13 +11,13 @@
       .cajon.color-secundario.mb-5(data-aos="fade-right")
         .row.align-items-center.justify-content-center
           .col-sm-12.col-md-12.col-lg-3.py-4.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t3/1.svg', alt='')
+            img(src='@/assets/curso/temas/t3/1.svg')
           .col-sm-12.col-md-12.col-lg-7.p-cus-2
             p.mb-3 La comunicación es un proceso mediante el cual dos o más personas intercambian información, ideas, sentimientos o conocimientos con el fin de generar comprensión mutua. No se limita a la transmisión de mensajes, sino que implica interpretación, retroalimentación y construcción de significado.
             p.mb-0 En el ámbito comercial, la comunicación es la base de las relaciones con los clientes, ya que permite transmitir propuestas de valor, negociar, fidelizar y resolver objeciones de manera efectiva.
 
       .titulo-cus-1.mb-4(data-aos="fade-right")
-        h3.mb-0 Elemento de la comunicación
+        h3.mb-0 Elementos de la comunicación
       p.mb-4(data-aos="fade-right") Para que el proceso comunicativo sea exitoso, intervienen los siguientes elementos:
       ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-right")
           template(v-slot:imagen)
@@ -63,7 +63,7 @@
             .indicador--hover(v-if="mostrarIndicador")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/t3/3.png", alt="")
+                img(src="@/assets/curso/temas/t3/3.png")
             .crd_hover_txt--body.text-center
               h4.mb-3 Tradicionales
               p.mb-0 Folletos, catálogos, muestras físicas, cartas de presentación.
@@ -72,7 +72,7 @@
             .indicador--hover(v-if="mostrarIndicador")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/t3/4.png", alt="")
+                img(src="@/assets/curso/temas/t3/4.png")
             .crd_hover_txt--body.text-center
               h4.mb-3 Digitales
               p.mb-0 Correo electrónico, mensajería instantánea, videollamadas, redes sociales, CRM.
@@ -80,15 +80,15 @@
           .crd_hover_txt(@mouseover="mostrarIndicador = false")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/t3/5.png", alt="")
+                img(src="@/assets/curso/temas/t3/5.png")
             .crd_hover_txt--body.text-center
               h4.mb-3 Audiovisuales
-              p.mb-0 Presentaciones, videos promocionales, podcasts, infografías.
+              p.mb-0 Presentaciones, videos promocionales, pódcast, infografías.
         .col-xl-3.col-lg-3.col-md-6.col-11.mb-4.mb-xl-0
           .crd_hover_txt(@mouseover="mostrarIndicador = false")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/t3/6.png", alt="")
+                img(src="@/assets/curso/temas/t3/6.png")
             .crd_hover_txt--body.text-center
               h4.mb-3 Interpersonales
               p.mb-0 Habilidades blandas como: escucha activa, empatía, asertividad y manejo del lenguaje no verbal.
@@ -120,7 +120,7 @@
 
 
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/7.png', alt='')
+          img(src='@/assets/curso/temas/t3/7.png')
       
       p.mb-5(data-aos="fade-right") La comunicación es la columna vertebral de la asesoría comercial porque permite al asesor no solo informar, sino también conectar con el cliente, persuadirlo, atender sus necesidades y mantener relaciones de largo plazo. Un asesor con buenas competencias comunicativas potencia su efectividad comercial y la satisfacción del cliente.
       
@@ -133,7 +133,7 @@
       #t_3_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 3.1 Medios de comunicación
 
-      p.mb-2(data-aos="fade-right") Estos son instrumentos utilizados por la empresa o la organización para dar a conocer sus mensajes, información y su información publicitaria, entre otros. La empresa utiliza estos medios de manera masiva utilizando medios #[i off-line] u #[i on-line].
+      p.mb-2(data-aos="fade-right") Estos son instrumentos utilizados por la empresa o la organización para dar a conocer sus mensajes, información y su contenido publicitario, entre otros. La empresa utiliza estos medios de manera masiva utilizando medios #[i off-line] u #[i on-line].
       p.mb-5(data-aos="fade-right") Existen divisiones de medios de comunicación generadas por la gestión del mercadeo. Es la comunicación que llega a un gran número de personas en un periodo de tiempo determinado; y los medios son:
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
@@ -176,11 +176,11 @@
                     p.mb-0  Vallas electrónicas y digitales.
 
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img.mt-5(src='@/assets/curso/temas/t3/8.png', alt='')
+          img.mt-5(src='@/assets/curso/temas/t3/8.png')
       
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-right")
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/bg/2.svg', alt='')
+          img(src='@/assets/curso/temas/bg/2.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2  Tipos de medios
       p.mb-3(data-aos="fade-right") Estos medios se clasifican en:

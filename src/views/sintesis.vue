@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/temas/sintesis.png", alt="La venta, la comunicación y el merchandising constituyen tres pilares esenciales en la gestión comercial: la venta como un proceso estructurado de interacción con el cliente, la comunicación como el medio clave para persuadir y transmitir mensajes claros, y el merchandising como estrategia que influye en la decisión de compra en el punto de venta. La integración de estos elementos permite generar experiencias positivas para el consumidor y mejores resultados para la empresa.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La venta, la comunicación y el merchandising constituyen tres pilares esenciales en la gestión comercial: la venta como un proceso estructurado de interacción con el cliente, la comunicación como el medio clave para persuadir y transmitir mensajes claros, y el merchandising como estrategia que influye en la decisión de compra en el punto de venta. La integración de estos elementos permite generar experiencias positivas para el consumidor y mejores resultados para la empresa.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

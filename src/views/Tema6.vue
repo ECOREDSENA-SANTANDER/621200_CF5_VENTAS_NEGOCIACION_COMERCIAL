@@ -39,12 +39,12 @@
                       i.fas.fa-video
       
       p.mb-3(data-aos="fade-right") Las presentaciones pueden ser de muchos tipos: de negocios, para producto nuevo o de relanzamiento, marca personal o de producto, profesionales o académicas, entre otras. También pueden estar dirigidas a públicos o personas de interés, por ejemplo, en la propia empresa, a un público general, accionistas o inversores.
-      p.mb-5(data-aos="fade-right") Además, las presentaciones son consideradas recursos gráficos que apoyan en la promoción o venta de un producto, y que presentan una estructura donde se va dando a conocer diferentes áreas o aspectos de un discurso profesional, académico o publicitario; de ahí la importancia de acertar en el tipo de presentación que se perfila. En este contexto, las presentaciones se pueden clasificar de la siguiente manera:
+      p.mb-5(data-aos="fade-right") Además, las presentaciones son consideradas recursos gráficos que apoyan en la promoción o venta de un producto, y que presentan una estructura donde se van dando a conocer diferentes áreas o aspectos de un discurso profesional, académico o publicitario; de ahí la importancia de acertar en el tipo de presentación que se perfila. En este contexto, las presentaciones se pueden clasificar de la siguiente manera:
       h5.text-center.mb-4(data-aos="fade-right") Clasificación de presentaciones
   
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
         .col-lg-4.col-md-8.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t6/3.png', alt='')
+          img(src='@/assets/curso/temas/t6/3.png')
         .col-lg-6.col-md-12.col-sm-12
           .tarjeta.bg-fondo-1
             SlyderA(tipo="b").p-4
@@ -64,7 +64,7 @@
                 .col-lg-3.col-md-3.col-6
                   img(src='@/assets/curso/temas/t6/6.svg')
                 .col-lg-8.mb-4.mb-md-0 
-                  h5 Línea
+                  h5 En línea
                   p Se caracteriza por estar en la web y se puede trasladar a cualquier lugar, puede estar almacenada en internet y ser enviada por correo electrónico.
               .row.justify-content-center.align-items-center
                 .col-lg-3.col-md-3.col-6
@@ -89,7 +89,7 @@
                   img(src='@/assets/curso/temas/t6/10.svg')
                 .col-lg-8.mb-4.mb-md-0 
                   h5 Corporativa
-                  p No existe un estilo único aunque sí es cierto que generalmente se piden modelos de presentación más serios y formales. Aquí se realiza una presentación de los valores organizacionales y elementos estratégicos de la empresa, tales como visión, misión, entre otros.
+                  p No existe un estilo único, aunque sí es cierto que generalmente se piden modelos de presentación más serios y formales. Aquí se realiza una presentación de los valores organizacionales y elementos estratégicos de la empresa, tales como visión, misión, entre otros.
               .row.justify-content-center.align-items-center
                 .col-lg-3.col-md-3.col-6
                   img(src='@/assets/curso/temas/t6/11.svg')
@@ -128,46 +128,46 @@
         .col-lg-11.position-relative
           .avatar
             figure
-              img(src="@/assets/curso/temas/t6/14.svg", alt="alt").img250
+              img(src="@/assets/curso/temas/t6/14.svg").img250
           .crd.crd--avatarHorizontal.crd--first.py-1
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t6/15.svg", alt="alt").img80
+                  img(src="@/assets/curso/temas/t6/15.svg").img80
               .col
                 p Si la presentación es en línea o a través de videoconferencia, los gestos, la sonrisa y la forma de mirar son elementos fundamentales para convencer.
           .crd.crd--avatarHorizontal.crd--2.py-1
             .row.align-items-center
               .col-auto
-                  img(src="@/assets/curso/temas/t6/16.svg", alt="alt").img80
+                  img(src="@/assets/curso/temas/t6/16.svg").img80
               .col
                 p Un buen uso del lenguaje corporal muestra confianza y seguridad al momento de realizar la presentación.
           .crd.crd--avatarHorizontal.crd--3.py-1
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t6/17.svg", alt="alt").img80
+                  img(src="@/assets/curso/temas/t6/17.svg").img80
               .col
                 p El objetivo es transmitir calma, confianza y seguridad para el cierre del trato, por tanto, el contacto visual demuestra que el presentador está interesado en los prospectos y en lo que ellos dicen. 
           .crd.crd--avatarHorizontal.crd--4.py-1
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t6/18.svg", alt="alt").img80
+                  img(src="@/assets/curso/temas/t6/18.svg").img80
               .col
                 p Si la presentación es “en persona”, sea en auditorio o sala de conferencia, es importante un buen uso del espacio. Si tiene un micrófono inalámbrico, se puede desplazar o caminar por el escenario.
           .crd.crd--avatarHorizontal.crd--5.py-1
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t6/19.svg", alt="alt").img80
+                  img(src="@/assets/curso/temas/t6/19.svg").img80
               .col
                 p Una buena postura también demuestra confianza. En el caso de la presentación en línea o por videoconferencia, está el modo de sentarse o ver a la cámara.
           .crd.crd--avatarHorizontal.crd--last.py-1
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t6/20.svg", alt="alt").img80
+                  img(src="@/assets/curso/temas/t6/20.svg").img80
               .col
                 p Si la presentación es presencial, se sugiere ofrecer un apretón de manos firme y decidido, pues genera una buena primera impresión.
 
@@ -191,70 +191,70 @@
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/21.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/21.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Knovio
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/22.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/22.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 PowToon
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/23.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/23.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Prezi
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/24.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/24.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Emaze
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/25.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/25.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Haiku Deck
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/26.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/26.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Slidebean
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/27.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/27.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Canva
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/28.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/28.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Google Slides
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/29.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/29.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Visme
           .tarjeta.bg-color-8.p-4
             .row.justify-content-center.p-4
               .col-7
-                img(src='@/assets/curso/temas/t6/30.png' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t6/30.png')
             .row.justify-content-center
               .col-9
                 h5.bg-color-5.text-center.p-1 Swipe
