@@ -124,11 +124,19 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Controlar los costos operativos.',
+              texto: 'Reducir la comunicación.',
               esCorrecta: false,
             },
-            { id: 'c', texto: 'Diseñar productos nuevos.', esCorrecta: false },
-            { id: 'd', texto: 'Administrar inventarios.', esCorrecta: false },
+            {
+              id: 'c',
+              texto: 'Aumentar los precios constantemente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Mantener una interacción efectiva con el cliente.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Se evidencia un adecuado dominio de los fundamentos de las Ventas, comunicación y <i>merchandising</i>.',
@@ -236,19 +244,35 @@ export default {
         },
         {
           id: 9,
-          texto: '¿Qué es el <i>merchandising</i>?',
+          texto:
+            '¿Cuál es el propósito principal del <i>merchandising</i> en el punto de venta? ',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Una técnica de producción.', esCorrecta: false },
-            { id: 'b', texto: 'Un proceso de fabricación.', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Organizar exclusivamente los procesos de producción y fabricación de los productos. ',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Establecer los procedimientos para transportar y almacenar los productos hasta el punto de venta.',
+              esCorrecta: false,
+            },
             {
               id: 'c',
               texto:
-                'Una estrategia para influir en la decisión de compra en el punto de venta.',
+                'Diseñar estrategias de exhibición y presentación de productos para atraer al consumidor y favorecer la decisión de compra. ',
               esCorrecta: true,
             },
-            { id: 'd', texto: 'Un sistema de transporte.', esCorrecta: false },
+            {
+              id: 'd',
+              texto:
+                'Determinar los costos de producción y los precios de venta de los productos.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Se evidencia un adecuado dominio de los fundamentos de las Ventas, comunicación y <i>merchandising</i>.',
